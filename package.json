@@ -20,7 +20,7 @@
     "@bcoe/v8-coverage": "0.2.3",
     "@istanbuljs/load-nyc-config": "1.1.0",
     "@istanbuljs/schema": "0.1.2",
-    "@jest/globals": "25.5.2",
+    "@jest/globals": "26.1.0",
     "@npmcli/move-file": "1.0.1",
     "@types/babel__core": "7.1.9",
     "@types/babel__traverse": "7.0.13",
